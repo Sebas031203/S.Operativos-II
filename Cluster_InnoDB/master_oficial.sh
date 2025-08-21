@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -e
+
 
 # --- VARIABLES ---
 PASSIVE_IP="192.168.56.57"   # <- reemplaza con IP del slave
